@@ -16,6 +16,9 @@ You will need to install inquirer as a dependency.
 Usage: 
 You need to run node index.js in the command line to start the application. You will then be asked a series of questions. 
 
+linked Walk-thru: 
+https://drive.google.com/file/d/1zgw0nM7TytroXXDMDQBQ32rB6FHa9n4g/view
+
 Credits:
 Youtube was a big help with this project but I only used one file for this project. 
 
